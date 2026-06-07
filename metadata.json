@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Semantic Graph Builder",
+  "description": "A deep-reasoning semantic hierarchy generator powered by Gemini 3 Pro and Google Search.",
+  "requestFramePermissions": []
+}
